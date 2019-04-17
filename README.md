@@ -13,3 +13,9 @@ Steps as I _think_ they go, of course I don't know if they actually do yet.
 1. `npm install --save-dev puppeteer @types/puppeteer`
 
 - [ ] TODO: Follow https://github.com/smooth-code/jest-puppeteer
+
+I also requested a tutorial is provided so that if I do manage to reserve
+engineer the example I can compare it with the tutorial and see how wrong I got
+it.
+
+https://github.com/smooth-code/jest-puppeteer/issues/230
