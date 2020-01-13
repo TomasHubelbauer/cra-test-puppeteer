@@ -19,3 +19,7 @@ engineer the example I can compare it with the tutorial and see how wrong I got
 it.
 
 https://github.com/smooth-code/jest-puppeteer/issues/230
+
+## To-Do
+
+### Try to figure this out
