@@ -1,5 +1,8 @@
 # Create React App `npm test` with Puppeteer
 
+**Update**: I just found https://github.com/xfumihiro/jest-puppeteer-example
+which seems relevant.
+
 In this repository I am trying to recreate what I expect is the end result of
 https://github.com/smooth-code/jest-puppeteer/tree/master/examples/create-react-app
 from scratch, because the linked example doesn't seem to have a tutorial associated
